@@ -24,14 +24,6 @@ const App = () => (
   </BrowserRouter>
 );
 
-//     );
-//   }
-// }
-
 export default App;
-
-//browser
-
-/* <LandingPage /> */
 
 //keep route exact path landing page at top

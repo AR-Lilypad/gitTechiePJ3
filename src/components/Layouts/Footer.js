@@ -43,20 +43,7 @@ export default function BottomAppBar() {
   return (
     <React.Fragment>
       <CssBaseline />
-      <Paper square className={classes.paper}>
-        <Typography className={classes.text} align="center" gutterBottom>
-          <h2>Git Techie, talent at your fingertips.</h2>
-          <p className="Intro">
-            Welcome, we're here to help you identify local talent in the coding
-            industry.
-          </p>
-          <p>
-            We are atuned to industry needs and have developed this website to
-            simplify your search for just the right person or persons for your
-            business.
-          </p>
-        </Typography>
-      </Paper>
+
       <AppBar
         positionSticky
         color="primary"
